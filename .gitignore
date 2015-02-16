@@ -1,0 +1,13 @@
+/bin/
+/gen/
+
+local.properties
+ant.properties
+project.properties
+build.xml
+
+*.dex
+*.class
+*~
+.#*
+\#*\#
